@@ -9,4 +9,10 @@
 	"url": "https://github.com/KSP-CKAN/CKAN/releases/download/v1.31.0/ckan.exe",
 	"hash": "f939b56905226d1367d637dec28c0e4c11edd4e9e024a0fe25e87d99e8346310",
     "bin": "ckan.exe",
+	"shortcuts": [
+		[
+			"ckan.exe",
+			"ckan"
+		]
+	]
 }
