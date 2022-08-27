@@ -15,7 +15,7 @@
 			"ckan"
 		]
 	],
-	"checkver": "github" ,
+	"checkver": "github",
 	"autoupdate": {
 		"url": "https://github.com/KSP-CKAN/CKAN/releases/download/v$version/ckan.exe"
 	}
