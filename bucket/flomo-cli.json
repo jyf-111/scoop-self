@@ -9,12 +9,6 @@
     "url": "https://github.com/MrEasonYang/flomo-cli/releases/download/v1.0.3/flomo_1.0.3_Windows_x86_64.zip",
     "hash": "fd6547eaefed13c2fe4d41ff98344d7250f25ee068fcc8f293b4e7550a266436",
     "bin": "flomo.exe",
-    "shortcuts": [
-        [
-            "flomo.exe",
-            "flomo"
-        ]
-    ],
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/MrEasonYang/flomo-cli/releases/download/v$version/flomo_$version_Windows_x86_64.zip"
