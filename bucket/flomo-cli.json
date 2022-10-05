@@ -1,0 +1,22 @@
+{
+    "version": "1.0.3",
+    "description": "A Golang based command line interface of flomo",
+    "homepage": "https://github.com/MrEasonYang/flomo-cli",
+    "license": {
+        "identifier": "Software",
+        "url": "https://github.com/MrEasonYang/flomo-cli/blob/main/LICENSE"
+    },
+    "url": "https://github.com/MrEasonYang/flomo-cli/releases/download/v1.0.3/flomo_1.0.3_Windows_x86_64.zip",
+    "hash": "1413f7c6d29c73dc2022b6bd15eddd47125622b3",
+    "bin": "flomo.exe",
+    "shortcuts": [
+        [
+            "flomo.exe",
+            "flomo"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/MrEasonYang/flomo-cli/releases/download/v$version/flomo_$version_Windows_x86_64.zip"
+    }
+}
