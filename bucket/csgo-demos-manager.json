@@ -8,7 +8,7 @@
     "innosetup": true,
     "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v2.14.2/csgo-demos-manager-2.14.2.exe",
     "hash": "0A017B7B0B602256E4BD0E94FD75393622301494AB41BEAC006284EFF4A95A13",
-    "bin": "csgo-demos-manager.exe",
+    "bin": "CSGODemosManager.exe",
     "shortcuts": [
         [
             "CSGODemosManager.exe",
