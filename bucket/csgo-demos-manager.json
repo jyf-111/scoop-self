@@ -3,7 +3,7 @@
     "description": "",
     "homepage": "https://github.com/akiver/CSGO-Demos-Manager",
     "license": {
-        "identifier": "Software",
+        "identifier": "Software"
     },
     "innosetup": true,
     "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v2.14.2/csgo-demos-manager-2.14.2.exe",
