@@ -6,9 +6,9 @@
         "identifier": "Software",
         "url": ""
     },
-    "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v2.14.2/csgo-demos-manager-2.14.2.exe",
+    "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v2.14.2/csgo-demos-manager-2.14.2.exe#/dl.7z",
     "hash": "0A017B7B0B602256E4BD0E94FD75393622301494AB41BEAC006284EFF4A95A13",
-    "bin": "csgo-demos-manager-$version.exe",
+    "bin": "csgo-demos-manager.exe",
     "shortcuts": [
         [
             "csgo-demos-manager.exe",
@@ -17,6 +17,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v$version/csgo-demos-manager-$version.exe"
+        "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v$version/csgo-demos-manager-$version.exe#/dl.7z"
     }
 }
