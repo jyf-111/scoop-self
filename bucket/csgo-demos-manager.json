@@ -11,8 +11,8 @@
     "bin": "csgo-demos-manager.exe",
     "shortcuts": [
         [
-            "csgo-demos-manager.exe",
-            "csgo-demos-manager"
+            "CSGODemosManager.exe",
+            "CSGODemosManager"
         ]
     ],
     "checkver": "github",
