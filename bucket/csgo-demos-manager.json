@@ -1,13 +1,13 @@
 {
-    "version": "2.14.2",
+    "version": "2.14.3",
     "description": "",
     "homepage": "https://github.com/akiver/CSGO-Demos-Manager",
     "license": {
         "identifier": "Software"
     },
     "innosetup": true,
-    "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v2.14.2/csgo-demos-manager-2.14.2.exe",
-    "hash": "0A017B7B0B602256E4BD0E94FD75393622301494AB41BEAC006284EFF4A95A13",
+    "url": "https://github.com/akiver/CSGO-Demos-Manager/releases/download/v2.14.3/csgo-demos-manager-2.14.3.exe",
+    "hash": "f8fbe847b9bf36b243c2911c932e17a28f235643359af95340a0f2d9140ac75b",
     "bin": "CSGODemosManager.exe",
     "shortcuts": [
         [
